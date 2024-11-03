@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CountriesInfo</string>
+    <color name="myColor">#BFBFBF</color>
+    <color name="Text">#070707</color>
+    <color name="SecondColor">#310E14</color>
+</resources>
