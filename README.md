@@ -5,5 +5,4 @@
 Если название такой страны не найдено, программа обрабатывает это исключение.
 Если по запросу есть несколько вариантов - программа просит уточнить какая из стран имелась ввиду.
 
-![Screenshot](https://github.com/dwodik/CountriesInfo/blob/master/screen1.png)[Screenshot](https://github.com/dwodik/CountriesInfo/blob/master/screen2.png)
-![Screenshot](https://github.com/dwodik/CountriesInfo/blob/master/screen3.png)![Screenshot](https://github.com/dwodik/CountriesInfo/blob/master/screen4.png)
+![Screenshot](https://github.com/dwodik/CountriesInfo/blob/master/screen.png)
